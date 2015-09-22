@@ -1,0 +1,3 @@
+rootProject.name = 'AeroIM'
+
+include ':app'
