@@ -1,12 +1,8 @@
 'use strict';
 
-var React = require('react-native');
-var {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View,
-} = React;
+var React = require('react-native'),
+    { AppRegistry, StyleSheet, Text, View } = React;
+require('./src/scripts/polyfills/builtins');
 
 var AeroIM = React.createClass({
   render: function() {

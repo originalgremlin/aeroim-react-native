@@ -22,6 +22,9 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+# IntelliJ
+.idea/
+
 # node.js
 #
 node_modules/
