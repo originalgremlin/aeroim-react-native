@@ -2,7 +2,7 @@
 
 var React = require('react-native'),
     { AppRegistry, StyleSheet, Text, View } = React;
-require('./src/scripts/polyfills/builtins');
+require('react-native-browser-builtins');
 
 var AeroIM = React.createClass({
   render: function() {
