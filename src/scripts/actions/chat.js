@@ -48,7 +48,6 @@ var createClient = function (credentials) {
     // events
     _.forEach({
         '*': function (star, event, obj) {
-            console.log(arguments);
             var isOff = SettingsStore.get('debug/showRawXmpp') !== 'true',
                 isStanza = _.get(obj, 'constructor.name') === 'Stanza',
                 isRaw = event === 'raw:outgoing';

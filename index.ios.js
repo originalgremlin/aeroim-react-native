@@ -8,10 +8,14 @@ require('react-native-browser-builtins');
 // app includes
 var _ = require('lodash'),
     ChatActions = require('./src/scripts/actions/chat'),
-    Conversations = require('./src/scripts/components/chat/conversations'),
+    AvatarStore = require('./src/scripts/stores/avatar'),
+    ConversationStore = require('./src/scripts/stores/chat-conversations'),
+    GroupInfoStore = require('./src/scripts/stores/group-info'),
+    ProfileStore = require('./src/scripts/stores/profile'),
+    Conversations = require('./src/scripts/components/chat/conversation'),
     Roster = require('./src/scripts/components/chat/roster'),
     Settings = require('./src/scripts/components/chat/settings');
-//ChatActions.connect();
+ChatActions.connect();
 
 // https://icons8.com/
 var icons = {
@@ -22,9 +26,31 @@ var icons = {
 
 var AeroIM = React.createClass({
     getInitialState: function () {
+        var currentConversationId = ConversationStore.getCurrentConversationId();
         return {
-            selected: 'Roster'
+            selected: 'Roster',
+            to: currentConversationId,
+            messages: ConversationStore.getConversation(currentConversationId),
+            groupInfo: GroupInfoStore.getAll(),
+            profiles: ProfileStore.getAll(),
+            avatars: AvatarStore.getAll()
         };
+    },
+
+    componentDidMount: function () {
+        ConversationStore.addChangeConversationListener(this.handleChangeConversation);
+        ConversationStore.addNewMessageListener(this.handleNewMessage);
+        GroupInfoStore.addChangeListener(this.handleChangeGroupInfo);
+        ProfileStore.addChangeListener(this.handleChangeProfile);
+        AvatarStore.addChangeListener(this.handleChangeAvatar);
+    },
+
+    componentWillUnmount: function () {
+        ConversationStore.removeChangeConversationListener(this.handleChangeConversation);
+        ConversationStore.removeNewMessageListener(this.handleNewMessage);
+        GroupInfoStore.removeChangeListener(this.handleChangeGroupInfo);
+        ProfileStore.removeChangeListener(this.handleChangeProfile);
+        AvatarStore.removeChangeListener(this.handleChangeAvatar);
     },
 
     render: function() {
@@ -42,7 +68,12 @@ var AeroIM = React.createClass({
                     icon={{ uri: icons.messages, scale: 3 }}
                     selected={ this.state.selected === 'Messages' }
                     onPress={ this.handlePress.bind(this, 'Messages') } >
-                    <Conversations />
+                    <Conversations
+                        conversationId={ this.state.to }
+                        messages={ this.state.messages }
+                        groupInfo={ this.state.groupInfo }
+                        profiles={ this.state.profiles }
+                        avatars={ this.state.avatars } />
                 </TabBarIOS.Item>
                 <TabBarIOS.Item
                     title='Settings'
@@ -53,6 +84,39 @@ var AeroIM = React.createClass({
                 </TabBarIOS.Item>
             </TabBarIOS>
         );
+    },
+
+    handleChangeConversation: function () {
+        var currentConversationId = ConversationStore.getCurrentConversationId();
+        this.setState({
+            messages: ConversationStore.getConversation(currentConversationId),
+            selected: 'Messages',
+            to: currentConversationId
+        });
+    },
+
+    handleNewMessage: function () {
+        this.setState({
+            messages: ConversationStore.getCurrentConversation()
+        });
+    },
+
+    handleChangeGroupInfo: function () {
+        this.setState({
+            groupInfo: GroupInfoStore.getAll()
+        });
+    },
+
+    handleChangeProfile: function () {
+        this.setState({
+            profiles: ProfileStore.getAll()
+        })
+    },
+
+    handleChangeAvatar: function () {
+        this.setState({
+            avatars: AvatarStore.getAll()
+        })
     },
 
     handlePress: function (selected, evt) {

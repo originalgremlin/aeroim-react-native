@@ -1,0 +1,3444 @@
+{
+    "People": {
+        "grinning_face": {
+            "code": "&#x1F600",
+            "aliases": ["grin", "grinning"]
+        },
+        "grinning_face_with_smiling_eyes": {
+            "code": "&#x1F601",
+            "aliases": ["sheepish1", "nervoussmile"]
+        },
+        "face_with_tears_of_joy": {
+            "code": "&#x1F602",
+            "aliases": ["joyfulcry"]
+        },
+        "smiling_face_with_open_mouth": {
+            "code": "&#x1F603",
+            "aliases": ["laugh", "laughing"]
+        },
+        "smiling_face_with_open_mouth_and_smiling_eyes": {
+            "code": "&#x1F604",
+            "aliases": ["smileylaugh"]
+        },
+        "smiling_face_with_open_mouth_and_cold_sweat": {
+            "code": "&#x1F605",
+            "aliases": ["nervouslaugh"]
+        },
+        "smiling_face_with_open_mouth_and_tightly_closed_eyes": {
+            "code": "&#x1F606",
+            "aliases": ["laughinghard"]
+        },
+        "winking_face": {
+            "code": "&#x1F609",
+            "aliases": ["wink"]
+        },
+        "smiling_face_with_smiling_eyes": {
+            "code": "&#x1F60A",
+            "aliases": ["smile"]
+        },
+        "face_savouring_delicious_food": {
+            "code": "&#x1F60B",
+            "aliases": ["yummy", "delicious", "smileylick"]
+        },
+        "smiling_face_with_sunglasses": {
+            "code": "&#x1F60E",
+            "aliases": ["cool", "toocool", "sunglasses"]
+        },
+        "smiling_face_with_heart_shaped_eyes": {
+            "code": "&#x1F60D",
+            "aliases": ["inlove", "romantic"]
+        },
+        "face_throwing_a_kiss": {
+            "code": "&#x1F618",
+            "aliases": ["blowkiss"]
+        },
+        "kissing_face": {
+            "code": "&#x1F617",
+            "aliases": ["kiss"]
+        },
+        "kissing_face_with_smiling_eyes": {
+            "code": "&#x1F619",
+            "aliases": ["kissingsmile"]
+        },
+        "kissing_face_with_closed_eyes": {
+            "code": "&#x1F61A",
+            "aliases": ["smooch", "smoochyface"]
+
+        },
+        "smiling_face_with_halo": {
+            "code": "&#x1F607",
+            "aliases": ["halo", "angelic"]
+        },
+        "neutral_face": {
+            "code": "&#x1F610",
+            "aliases": ["pursedlips", "neutral", "meh"]
+        },
+        "expressionless_face": {
+            "code": "&#x1F611",
+            "aliases": ["lineface", "expressionless"]
+        },
+        "face_without_mouth": {
+            "code": "&#x1F636",
+            "aliases": ["speechless", "nomouth", "saynothing", "mute"]
+        },
+        "smirking_face": {
+            "code": "&#x1F60F",
+            "aliases": ["smirk"]
+        },
+        "persevering_face": {
+            "code": "&#x1F623",
+            "aliases": ["wince", "upset"]
+        },
+        "disappointed_but_relieved_face": {
+            "code": "&#x1F625",
+            "aliases": ["ohno"]
+        },
+        "face_with_open_mouth": {
+            "code": "&#x1F62E",
+            "aliases": ["shock1", "jawdrop1"]
+        },
+        "hushed_face": {
+            "code": "&#x1F62F",
+            "aliases": ["shock2", "hush"]
+        },
+        "sleepy_face": {
+            "code": "&#x1F62A",
+            "aliases": ["snot", "sleepy"]
+        },
+        "tired_face": {
+            "code": "&#x1F62B",
+            "aliases": ["complaining1", "loudcry"]
+        },
+        "sleeping_face": {
+            "code": "&#x1F634",
+            "aliases": ["asleep", "soundasleep", "zzz"]
+        },
+        "relieved_face": {
+            "code": "&#x1F60C",
+            "aliases": ["calm", "comforted", "relaxed"]
+        },
+        "face_with_stuck_out_tongue": {
+            "code": "&#x1F61B",
+            "aliases": ["teasing", "tongueout"]
+        },
+        "face_with_stuck_out_tongue_and_winking_eye": {
+            "code": "&#x1F61C",
+            "aliases": ["smilingwink", "tonguewink", "teasing2"]
+        },
+        "face_with_stuck_out_tongue_and_tightly_closed_eyes": {
+            "code": "&#x1F61D",
+            "aliases": ["teasing3"]
+
+        },
+        "unamused_face": {
+            "code": "&#x1F612",
+            "aliases": ["unamused", "whatever"]
+        },
+        "face_with_cold_sweat": {
+            "code": "&#x1F613",
+            "aliases": ["coldsweat", "oops", "guilty"]
+        },
+        "pensive_face": {
+            "code": "&#x1F614",
+            "aliases": ["sad", "feelingdown"]
+        },
+        "confused_face": {
+            "code": "&#x1F615",
+            "aliases": ["confused"]
+        },
+        "confounded_face": {
+            "code": "&#x1F616",
+            "aliases": ["confounded", "terrified", "frightened"]
+        },
+        "face_with_medical_mask": {
+            "code": "&#x1F637",
+            "aliases": ["mask", "sick"]
+        },
+        "astonished_face": {
+            "code": "&#x1F632",
+            "aliases": ["astonished"]
+        },
+        "disappointed_face": {
+            "code": "&#x1F61E",
+            "aliases": ["disappointed", "sad2"]
+        },
+        "worried_face": {
+            "code": "&#x1F61F",
+            "aliases": ["worried1"]
+        },
+        "face_with_look_of_triumph": {
+            "code": "&#x1F624",
+            "aliases": ["triumph", "hmph", "blowsteam"]
+        },
+        "crying_face": {
+            "code": "&#x1F622",
+            "aliases": ["crying1", "tear"]
+        },
+        "loudly_crying_face": {
+            "code": "&#x1F62D",
+            "aliases": ["crying2", "bawling"]
+        },
+        "frowning_face_with_open_mouth": {
+            "code": "&#x1F626",
+            "aliases": ["frowning", "shocked", "jawdrop2"]
+        },
+        "anguished_face": {
+            "code": "&#x1F627",
+            "aliases": ["anguish", "jawdrop3"]
+        },
+        "fearful_face": {
+            "code": "&#x1F628",
+            "aliases": ["fearful", "turningblue"]
+        },
+        "weary_face": {
+            "code": "&#x1F629",
+            "aliases": ["weary", "complaining2"]
+        },
+        "grimacing_face": {
+            "code": "&#x1F62C",
+            "aliases": ["grimacing", "sheepish2"]
+        },
+        "face_with_open_mouth_and_cold_sweat": {
+            "code": "&#x1F630",
+            "aliases": ["turningbluewithsweat", "scared", "worried2"]
+        },
+        "face_screaming_in_fear": {
+            "code": "&#x1F631",
+            "aliases": ["thescream", "screaminginfear"]
+        },
+        "flushed_face": {
+            "code": "&#x1F633",
+            "aliases": ["blushing", "flushed"]
+        },
+        "dizzy_face": {
+            "code": "&#x1F635",
+            "aliases": ["dizzy", "dead"]
+        },
+        "pouting_face": {
+            "code": "&#x1F621",
+            "aliases": ["angry1", "redangryface", "pissed1"]
+        },
+        "angry_face": {
+            "code": "&#x1F620",
+            "aliases": ["angry2", "pissed2"]
+        },
+        "imp": {
+            "code": "&#x1F47F",
+            "aliases": ["imp", "angryimp", "angrydevil", "dissatisfieddevil"]
+        },
+        "smiling_face_with_horns": {
+            "code": "&#x1F608",
+            "aliases": ["devilish", "mischievous"]
+        },
+        "boy": {
+            "code": "&#x1F466",
+            "aliases": ["boy"]
+        },
+        "girl": {
+            "code": "&#x1F467",
+            "aliases": ["girl"]
+        },
+        "man": {
+            "code": "&#x1F468",
+            "aliases": ["man"]
+        },
+        "woman": {
+            "code": "&#x1F469",
+            "aliases": ["woman"]
+        },
+        "older_man": {
+            "code": "&#x1F474",
+            "aliases": ["oldman", "olderman", "agingman", "baldingman"]
+        },
+        "older_woman": {
+            "code": "&#x1F475",
+            "aliases": ["maturewoman"]
+        },
+        "baby": {
+            "code": "&#x1F476",
+            "aliases": ["baby"]
+        },
+        "person_with_blond_hair": {
+            "code": "&#x1F471",
+            "aliases": ["blond"]
+        },
+        "police_officer": {
+            "code": "&#x1F46E",
+            "aliases": ["police"]
+        },
+        "man_with_gua_pi_mao": {
+            "code": "&#x1F472",
+            "aliases": ["chineseman", "skullcap"]
+        },
+        "man_with_turban": {
+            "code": "&#x1F473",
+            "aliases": ["turban", "manwithturban"]
+        },
+        "construction_worker": {
+            "code": "&#x1F477",
+            "aliases": ["constructionworker", "worker"]
+        },
+        "princess": {
+            "code": "&#x1F478",
+            "aliases": ["princess"]
+        },
+        "guardsman": {
+            "code": "&#x1F482",
+            "aliases": ["guard", "guardsman"]
+        },
+        "father_christmas": {
+            "code": "&#x1F385",
+            "aliases": ["santa", "santaclaus", "fatherchristmas"]
+        },
+        "baby_angel": {
+            "code": "&#x1F47C",
+            "aliases": ["angel", "babyangel"]
+
+        },
+        "woman_with_bunny_ears": {
+            "code": "&#x1F46F",
+            "aliases": ["dancers", "bunnyears", "cancandance"]
+        },
+        "face_massage": {
+            "code": "&#x1F486",
+            "aliases": ["headmassage", "facemassage", "massage"]
+        },
+        "haircut": {
+            "code": "&#x1F487",
+            "aliases": ["haircut"]
+        },
+        "bride_with_veil": {
+            "code": "&#x1F470",
+            "aliases": ["veiledbride", "bride"]
+        },
+        "person_frowning": {
+            "code": "&#x1F64D",
+            "aliases": ["womanfrown", "frown"]
+        },
+        "person_with_pouting_face": {
+            "code": "&#x1F64E",
+            "aliases": ["womanpout", "pout"]
+        },
+        "face_with_no_good_gesture": {
+            "code": "&#x1F645",
+            "aliases": ["stop", "crossedarmsgesture"]
+        },
+        "face_with_ok_gesture": {
+            "code": "&#x1F646",
+            "aliases": ["handsup", "okgesture"]
+        },
+        "information_desk_person": {
+            "code": "&#x1F481",
+            "aliases": ["hellogesture", "cheerfulwoman"]
+        },
+        "happy_person_raising_one_hand": {
+            "code": "&#x1F64B",
+            "aliases": ["raisinghand"]
+        },
+        "person_bowing_deeply": {
+            "code": "&#x1F647",
+            "aliases": ["praisingatfeet", "bowingdeeply"]
+        },
+        "person_raising_both_hands_in_celebration": {
+            "code": "&#x1F64C",
+            "aliases": ["holyhands", "handsup"]
+        },
+        "person_with_folded_hands": {
+            "code": "&#x1F64F",
+            "aliases": ["foldedhands"]
+        },
+        "bust_in_silhouette": {
+            "code": "&#x1F464",
+            "aliases": ["silhouette", "bust"]
+        },
+        "busts_in_silhouette": {
+            "code": "&#x1F465",
+            "aliases": ["busts", "silhouettes"]
+        },
+        "pedestrian": {
+            "code": "&#x1F6B6",
+            "aliases": ["walkingboy", "ped"]
+        },
+        "runner": {
+            "code": "&#x1F3C3",
+            "aliases": ["running", "runningboy"]
+        },
+        "dancer": {
+            "code": "&#x1F483",
+            "aliases": ["dance", "dancer"]
+        },
+        "kiss": {
+            "code": "&#x1F48F",
+            "aliases": ["love", "kiss", "couplesmooching"]
+        },
+        "couple_with_heart": {
+            "code": "&#x1F491",
+            "aliases": ["inlove", "heartcouple"]
+        },
+        "family": {
+            "code": "&#x1F46A",
+            "aliases": ["family", "nuclearfamily"]
+        },
+        "man_and_woman_holding_hands": {
+            "code": "&#x1F46B",
+            "aliases": ["normativecouple"]
+        },
+        "two_men_holding_hands": {
+            "code": "&#x1F46C",
+            "aliases": ["gaycouple", "twomenholdinghands"]
+        },
+        "two_women_holding_hands": {
+            "code": "&#x1F46D",
+            "aliases": ["lesbiancouple", "twowomenholdinghands"]
+
+        },
+        "flexed_biceps": {
+            "code": "&#x1F4AA",
+            "aliases": ["bicep", "flex", "muscular"]
+        },
+        "white_left_pointing_backhand_index": {
+            "code": "&#x1F448",
+            "aliases": ["fingerpointleft"]
+        },
+        "white_right_pointing_backhand_index": {
+            "code": "&#x1F449",
+            "aliases": ["fingerpointright"]
+        },
+        "white_up_pointing_index": {
+            "code": "&#x261D",
+            "aliases": ["fingerpointup"]
+        },
+        "white_up_pointing_backhand_index": {
+            "code": "&#x1F446",
+            "aliases": ["fingerpointup"]
+        },
+        "white_down_pointing_backhand_index": {
+            "code": "&#x1F447",
+            "aliases": ["fingerpointdown"]
+        },
+        "victory_hand": {
+            "code": "&#x270C",
+            "aliases": ["victory", "peace"]
+        },
+        "raised_hand_with_part_between_middle_and_ring_fingers": {
+            "code": "&#x1F596",
+            "aliases": ["livelongandprosper", "startrekhand"]
+        },
+        "raised_fist": {
+            "code": "&#x270A",
+            "aliases": ["fist"]
+        },
+        "raised_hand": {
+            "code": "&#x270B",
+            "aliases": ["openpalm", "raisedhand"]
+        },
+        "fisted_hand_sign": {
+            "code": "&#x1F44A",
+            "aliases": ["punch", "fistedhand"]
+        },
+        "ok_hand_sign": {
+            "code": "&#x1F44C",
+            "aliases": ["okhandsign"]
+        },
+        "thumbs_up_sign": {
+            "code": "&#x1F44D",
+            "aliases": ["thumbsup"]
+        },
+        "thumbs_down_sign": {
+            "code": "&#x1F44E",
+            "aliases": ["thumbsdown"]
+        },
+        "waving_hand_sign": {
+            "code": "&#x1F44B",
+            "aliases": ["wavinghand"]
+        },
+        "clapping_hands_sign": {
+            "code": "&#x1F44F",
+            "aliases": ["clappinghands"]
+        },
+        "open_hands_sign": {
+            "code": "&#x1F450",
+            "aliases": ["openhands"]
+        },
+        "writing_hand": {
+            "code": "&#x270D",
+            "aliases": ["writinghand"]
+        },
+        "nail_polish": {
+            "code": "&#x1F485",
+            "aliases": ["nailpainting", "nailpolish"]
+        },
+        "footprints": {
+            "code": "&#x1F463",
+            "aliases": ["footprints"]
+        },
+        "eyes": {
+            "code": "&#x1F440",
+            "aliases": ["eyes"]
+        },
+        "ear": {
+            "code": "&#x1F442",
+            "aliases": ["ear"]
+        },
+        "nose": {
+            "code": "&#x1F443",
+            "aliases": ["nose"]
+        },
+        "tongue": {
+            "code": "&#x1F445",
+            "aliases": ["tongue"]
+        },
+        "mouth": {
+            "code": "&#x1F444",
+            "aliases": ["mouth"]
+        },
+        "kiss_mark": {
+            "code": "&#x1F48B",
+            "aliases": ["kissmark"]
+        },
+        "heart_with_arrow": {
+            "code": "&#x1F498",
+            "aliases": ["heartwitharrow"]
+        },
+        "heavy_black_heart": {
+            "code": "&#x2764",
+            "aliases": ["blackheart"]
+        },
+        "beating_heart": {
+            "code": "&#x1F493",
+            "aliases": ["beatingheart", "flyingheart"]
+        },
+        "broken_heart": {
+            "code": "&#x1F494",
+            "aliases": ["brokenheart"]
+        },
+        "two_hearts": {
+            "code": "&#x1F495",
+            "aliases": ["twohearts"]
+        },
+        "sparkling_heart": {
+            "code": "&#x1F496",
+            "aliases": ["sparklingheart"]
+        },
+        "growing_heart": {
+            "code": "&#x1F497",
+            "aliases": ["growingheart", "multiplehearts"]
+        },
+        "blue_heart": {
+            "code": "&#x1F499",
+            "aliases": ["blueheart"]
+        },
+        "green_heart": {
+            "code": "&#x1F49A",
+            "aliases": ["greenheart"]
+        },
+        "yellow_heart": {
+            "code": "&#x1F49B",
+            "aliases": ["yellowheart"]
+        },
+        "purple_heart": {
+            "code": "&#x1F49C",
+            "aliases": ["purpleheart"]
+        },
+        "heart_with_ribbon": {
+            "code": "&#x1F49D",
+            "aliases": ["heartwithribbon"]
+        },
+        "revolving_hearts": {
+            "code": "&#x1F49E",
+            "aliases": ["revolvinghearts"]
+        }
+    },
+    "Nature": {
+        "monkey_face": {
+            "code": "&#x1F435",
+            "aliases": []
+        },
+        "see_no_evil_monkey": {
+            "code": "&#x1F648",
+            "aliases": []
+        },
+        "hear_no_evil_monkey": {
+            "code": "&#x1F649",
+            "aliases": []
+        },
+        "speak_no_evil_monkey": {
+            "code": "&#x1F64A",
+            "aliases": []
+        },
+        "monkey": {
+            "code": "&#x1F412",
+            "aliases": []
+        },
+        "dog_face": {
+            "code": "&#x1F436",
+            "aliases": []
+        },
+        "dog": {
+            "code": "&#x1F415",
+            "aliases": []
+        },
+        "poodle": {
+            "code": "&#x1F429",
+            "aliases": []
+        },
+        "wolf_face": {
+            "code": "&#x1F43A",
+            "aliases": []
+        },
+        "cat_face": {
+            "code": "&#x1F431",
+            "aliases": []
+        },
+        "grinning_cat_face_with_smiling_eyes": {
+            "code": "&#x1F638",
+            "aliases": []
+        },
+        "cat_face_with_tears_of_joy": {
+            "code": "&#x1F639",
+            "aliases": []
+        },
+        "smiling_cat_face_with_open_mouth": {
+            "code": "&#x1F63A",
+            "aliases": []
+        },
+        "smiling_cat_face_with_heart_shaped_eyes": {
+            "code": "&#x1F63B",
+            "aliases": []
+        },
+        "cat_face_with_wry_smile": {
+            "code": "&#x1F63C",
+            "aliases": []
+        },
+        "kissing_cat_face_with_closed_eyes": {
+            "code": "&#x1F63D",
+            "aliases": []
+        },
+        "pouting_cat_face": {
+            "code": "&#x1F63E",
+            "aliases": []
+        },
+        "crying_cat_face": {
+            "code": "&#x1F63F",
+            "aliases": []
+        },
+        "weary_cat_face": {
+            "code": "&#x1F640",
+            "aliases": []
+        },
+        "cat": {
+            "code": "&#x1F408",
+            "aliases": []
+        },
+        "tiger_face": {
+            "code": "&#x1F42F",
+            "aliases": []
+        },
+        "tiger": {
+            "code": "&#x1F405",
+            "aliases": []
+        },
+        "leopard": {
+            "code": "&#x1F406",
+            "aliases": []
+        },
+        "horse_face": {
+            "code": "&#x1F434",
+            "aliases": []
+        },
+        "horse": {
+            "code": "&#x1F40E",
+            "aliases": []
+
+        },
+        "cow_face": {
+            "code": "&#x1F42E",
+            "aliases": []
+        },
+        "ox": {
+            "code": "&#x1F402",
+            "aliases": []
+        },
+        "water_buffalo": {
+            "code": "&#x1F403",
+            "aliases": []
+        },
+        "cow": {
+            "code": "&#x1F404",
+            "aliases": []
+        },
+        "pig_face": {
+            "code": "&#x1F437",
+            "aliases": []
+        },
+        "pig": {
+            "code": "&#x1F416",
+            "aliases": []
+        },
+        "boar": {
+            "code": "&#x1F417",
+            "aliases": []
+        },
+        "pig_nose": {
+            "code": "&#x1F43D",
+            "aliases": []
+        },
+        "ram": {
+            "code": "&#x1F40F",
+            "aliases": []
+        },
+        "sheep": {
+            "code": "&#x1F411",
+            "aliases": []
+        },
+        "goat": {
+            "code": "&#x1F410",
+            "aliases": []
+        },
+        "dromedary_camel": {
+            "code": "&#x1F42A",
+            "aliases": []
+        },
+        "bactrian_camel": {
+            "code": "&#x1F42B",
+            "aliases": []
+        },
+        "elephant": {
+            "code": "&#x1F418",
+            "aliases": []
+        },
+        "mouse_face": {
+            "code": "&#x1F42D",
+            "aliases": []
+        },
+        "mouse": {
+            "code": "&#x1F401",
+            "aliases": []
+        },
+        "rat": {
+            "code": "&#x1F400",
+            "aliases": []
+        },
+        "hamster_face": {
+            "code": "&#x1F439",
+            "aliases": []
+        },
+        "rabbit_face": {
+            "code": "&#x1F430",
+            "aliases": []
+        },
+        "rabbit": {
+            "code": "&#x1F407",
+            "aliases": []
+        },
+        "bear_face": {
+            "code": "&#x1F43B",
+            "aliases": []
+        },
+        "koala": {
+            "code": "&#x1F428",
+            "aliases": []
+        },
+        "panda_face": {
+            "code": "&#x1F43C",
+            "aliases": []
+        },
+        "paw_prints": {
+            "code": "&#x1F43E",
+            "aliases": []
+        },
+        "chicken": {
+            "code": "&#x1F414",
+            "aliases": []
+        },
+        "rooster": {
+            "code": "&#x1F413",
+            "aliases": []
+        },
+        "hatching_chick": {
+            "code": "&#x1F423",
+            "aliases": []
+        },
+        "baby_chick": {
+            "code": "&#x1F424",
+            "aliases": []
+        },
+        "front_facing_baby_chick": {
+            "code": "&#x1F425",
+            "aliases": []
+        },
+        "bird": {
+            "code": "&#x1F426",
+            "aliases": []
+        },
+        "penguin": {
+            "code": "&#x1F427",
+            "aliases": []
+        },
+        "frog_face": {
+            "code": "&#x1F438",
+            "aliases": []
+        },
+        "crocodile": {
+            "code": "&#x1F40A",
+            "aliases": []
+        },
+        "turtle": {
+            "code": "&#x1F422",
+            "aliases": []
+        },
+        "snake": {
+            "code": "&#x1F40D",
+            "aliases": []
+        },
+        "dragon_face": {
+            "code": "&#x1F432",
+            "aliases": []
+        },
+        "dragon": {
+            "code": "&#x1F409",
+            "aliases": []
+        },
+        "spouting_whale": {
+            "code": "&#x1F433",
+            "aliases": []
+        },
+        "whale": {
+            "code": "&#x1F40B",
+            "aliases": []
+        },
+        "dolphin": {
+            "code": "&#x1F42C",
+            "aliases": []
+        },
+        "fish": {
+            "code": "&#x1F41F",
+            "aliases": []
+        },
+        "tropical_fish": {
+            "code": "&#x1F420",
+            "aliases": []
+        },
+        "blowfish": {
+            "code": "&#x1F421",
+            "aliases": []
+        },
+        "octopus": {
+            "code": "&#x1F419",
+            "aliases": []
+        },
+        "spiral_shell": {
+            "code": "&#x1F41A",
+            "aliases": []
+        },
+        "snail": {
+            "code": "&#x1F40C",
+            "aliases": []
+        },
+        "bug": {
+            "code": "&#x1F41B",
+            "aliases": []
+        },
+        "ant": {
+            "code": "&#x1F41C",
+            "aliases": []
+        },
+        "honeybee": {
+            "code": "&#x1F41D",
+            "aliases": []
+        },
+        "lady_beetle": {
+            "code": "&#x1F41E",
+            "aliases": []
+        },
+        "bouquet": {
+            "code": "&#x1F490",
+            "aliases": []
+        },
+        "cherry_blossom": {
+            "code": "&#x1F338",
+            "aliases": []
+        },
+        "white_flower": {
+            "code": "&#x1F4AE",
+            "aliases": []
+        },
+        "rose": {
+            "code": "&#x1F339",
+            "aliases": []
+        },
+        "hibiscus": {
+            "code": "&#x1F33A",
+            "aliases": []
+        },
+        "sunflower": {
+            "code": "&#x1F33B",
+            "aliases": []
+        },
+        "blossom": {
+            "code": "&#x1F33C",
+            "aliases": []
+        },
+        "tulip": {
+            "code": "&#x1F337",
+            "aliases": []
+        },
+        "shamrock": {
+            "code": "&#x2618",
+            "aliases": []
+        },
+        "seedling": {
+            "code": "&#x1F331",
+            "aliases": []
+        },
+        "evergreen_tree": {
+            "code": "&#x1F332",
+            "aliases": []
+        },
+        "deciduous_tree": {
+            "code": "&#x1F333",
+            "aliases": []
+        },
+        "palm_tree": {
+            "code": "&#x1F334",
+            "aliases": []
+        },
+        "cactus": {
+            "code": "&#x1F335",
+            "aliases": []
+        },
+        "ear_of_rice": {
+            "code": "&#x1F33E",
+            "aliases": []
+        },
+        "herb": {
+            "code": "&#x1F33F",
+            "aliases": []
+        },
+        "four_leaf_clover": {
+            "code": "&#x1F340",
+            "aliases": []
+        },
+        "maple_leaf": {
+            "code": "&#x1F341",
+            "aliases": []
+        },
+        "fallen_leaf": {
+            "code": "&#x1F342",
+            "aliases": []
+        },
+        "leaf_fluttering_in_wind": {
+            "code": "&#x1F343",
+            "aliases": []
+
+        },
+        "new_moon_symbol": {
+            "code": "&#x1F311",
+            "aliases": []
+        },
+        "waxing_crescent_moon_symbol": {
+            "code": "&#x1F312",
+            "aliases": []
+        },
+        "first_quarter_moon_symbol": {
+            "code": "&#x1F313",
+            "aliases": []
+        },
+        "waxing_gibbous_moon_symbol": {
+            "code": "&#x1F314",
+            "aliases": []
+        },
+        "full_moon_symbol": {
+            "code": "&#x1F315",
+            "aliases": []
+        },
+        "waning_gibbous_moon_symbol": {
+            "code": "&#x1F316",
+            "aliases": []
+        },
+        "last_quarter_moon_symbol": {
+            "code": "&#x1F317",
+            "aliases": []
+        },
+        "waning_crescent_moon_symbol": {
+            "code": "&#x1F318",
+            "aliases": []
+        },
+        "crescent_moon": {
+            "code": "&#x1F319",
+            "aliases": []
+        },
+        "new_moon_with_face": {
+            "code": "&#x1F31A",
+            "aliases": []
+        },
+        "first_quarter_moon_with_face": {
+            "code": "&#x1F31B",
+            "aliases": []
+        },
+        "last_quarter_moon_with_face": {
+            "code": "&#x1F31C",
+            "aliases": []
+        },
+        "black_sun_with_rays": {
+            "code": "&#x2600",
+            "aliases": []
+        },
+        "full_moon_with_face": {
+            "code": "&#x1F31D",
+            "aliases": []
+        },
+        "sun_with_face": {
+            "code": "&#x1F31E",
+            "aliases": []
+        },
+        "cloud": {
+            "code": "&#x2601",
+            "aliases": []
+        },
+        "sun_behind_cloud": {
+            "code": "&#x26C5",
+            "aliases": []
+        },
+        "cyclone": {
+            "code": "&#x1F300",
+            "aliases": []
+        },
+        "rainbow": {
+            "code": "&#x1F308",
+            "aliases": []
+        },
+        "closed_umbrella": {
+            "code": "&#x1F302",
+            "aliases": []
+        },
+        "umbrella": {
+            "code": "&#x2602",
+            "aliases": []
+        },
+        "umbrella_with_rain_drops": {
+            "code": "&#x2614",
+            "aliases": []
+        },
+        "snowflake": {
+            "code": "&#x2744",
+            "aliases": []
+        },
+        "snowman": {
+            "code": "&#x2603",
+            "aliases": []
+        },
+        "snowman_without_snow": {
+            "code": "&#x26C4",
+            "aliases": []
+        },
+        "glowing_star": {
+            "code": "&#x1F31F",
+            "aliases": []
+        },
+        "shooting_star": {
+            "code": "&#x1F320",
+            "aliases": []
+        },
+        "fire": {
+            "code": "&#x1F525",
+            "aliases": []
+        }
+    },
+    "Food & Drink": {
+        "grapes": {
+            "code": "&#x1F347",
+            "aliases": []
+        },
+        "melon": {
+            "code": "&#x1F348",
+            "aliases": []
+        },
+        "watermelon": {
+            "code": "&#x1F349",
+            "aliases": []
+        },
+        "tangerine": {
+            "code": "&#x1F34A",
+            "aliases": []
+        },
+        "lemon": {
+            "code": "&#x1F34B",
+            "aliases": []
+        },
+        "banana": {
+            "code": "&#x1F34C",
+            "aliases": []
+        },
+        "pineapple": {
+            "code": "&#x1F34D",
+            "aliases": []
+        },
+        "red_apple": {
+            "code": "&#x1F34E",
+            "aliases": []
+        },
+        "green_apple": {
+            "code": "&#x1F34F",
+            "aliases": []
+        },
+        "pear": {
+            "code": "&#x1F350",
+            "aliases": []
+        },
+        "peach": {
+            "code": "&#x1F351",
+            "aliases": []
+        },
+        "cherries": {
+            "code": "&#x1F352",
+            "aliases": []
+        },
+        "strawberry": {
+            "code": "&#x1F353",
+            "aliases": []
+        },
+        "tomato": {
+            "code": "&#x1F345",
+            "aliases": []
+        },
+        "aubergine": {
+            "code": "&#x1F346",
+            "aliases": []
+        },
+        "ear_of_maize": {
+            "code": "&#x1F33D",
+            "aliases": []
+        },
+        "mushroom": {
+            "code": "&#x1F344",
+            "aliases": []
+        },
+        "chestnut": {
+            "code": "&#x1F330",
+            "aliases": []
+        },
+        "bread": {
+            "code": "&#x1F35E",
+            "aliases": []
+        },
+        "meat_on_bone": {
+            "code": "&#x1F356",
+            "aliases": []
+        },
+        "poultry_leg": {
+            "code": "&#x1F357",
+            "aliases": []
+        },
+        "hamburger": {
+            "code": "&#x1F354",
+            "aliases": []
+        },
+        "french_fries": {
+            "code": "&#x1F35F",
+            "aliases": []
+        },
+        "slice_of_pizza": {
+            "code": "&#x1F355",
+            "aliases": []
+        },
+        "pot_of_food": {
+            "code": "&#x1F372",
+            "aliases": []
+        },
+        "bento_box": {
+            "code": "&#x1F371",
+            "aliases": []
+        },
+        "rice_cracker": {
+            "code": "&#x1F358",
+            "aliases": []
+        },
+        "rice_ball": {
+            "code": "&#x1F359",
+            "aliases": []
+        },
+        "cooked_rice": {
+            "code": "&#x1F35A",
+            "aliases": []
+        },
+        "curry_and_rice": {
+            "code": "&#x1F35B",
+            "aliases": []
+        },
+        "steaming_bowl": {
+            "code": "&#x1F35C",
+            "aliases": []
+        },
+        "spaghetti": {
+            "code": "&#x1F35D",
+            "aliases": []
+        },
+        "roasted_sweet_potato": {
+            "code": "&#x1F360",
+            "aliases": []
+        },
+        "oden": {
+            "code": "&#x1F362",
+            "aliases": []
+        },
+        "sushi": {
+            "code": "&#x1F363",
+            "aliases": []
+        },
+        "fried_shrimp": {
+            "code": "&#x1F364",
+            "aliases": []
+        },
+        "fish_cake_with_swirl_design": {
+            "code": "&#x1F365",
+            "aliases": []
+        },
+        "dango": {
+            "code": "&#x1F361",
+            "aliases": []
+        },
+        "soft_ice_cream": {
+            "code": "&#x1F366",
+            "aliases": []
+        },
+        "shaved_ice": {
+            "code": "&#x1F367",
+            "aliases": []
+        },
+        "ice_cream": {
+            "code": "&#x1F368",
+            "aliases": []
+        },
+        "doughnut": {
+            "code": "&#x1F369",
+            "aliases": []
+        },
+        "cookie": {
+            "code": "&#x1F36A",
+            "aliases": []
+        },
+        "birthday_cake": {
+            "code": "&#x1F382",
+            "aliases": []
+        },
+        "shortcake": {
+            "code": "&#x1F370",
+            "aliases": []
+        },
+        "chocolate_bar": {
+            "code": "&#x1F36B",
+            "aliases": []
+        },
+        "candy": {
+            "code": "&#x1F36C",
+            "aliases": []
+        },
+        "lollipop": {
+            "code": "&#x1F36D",
+            "aliases": []
+        },
+        "custard": {
+            "code": "&#x1F36E",
+            "aliases": []
+        },
+        "honey_pot": {
+            "code": "&#x1F36F",
+            "aliases": []
+        },
+        "baby_bottle": {
+            "code": "&#x1F37C",
+            "aliases": []
+        },
+        "hot_beverage": {
+            "code": "&#x2615",
+            "aliases": []
+        },
+        "teacup_without_handle": {
+            "code": "&#x1F375",
+            "aliases": []
+        },
+        "sake_bottle_and_cup": {
+            "code": "&#x1F376",
+            "aliases": []
+        },
+        "wine_glass": {
+            "code": "&#x1F377",
+            "aliases": []
+        },
+        "cocktail_glass": {
+            "code": "&#x1F378",
+            "aliases": []
+        },
+        "tropical_drink": {
+            "code": "&#x1F379",
+            "aliases": []
+        },
+        "beer_mug": {
+            "code": "&#x1F37A",
+            "aliases": []
+        },
+        "clinking_beer_mugs": {
+            "code": "&#x1F37B",
+            "aliases": []
+        },
+        "fork_and_knife": {
+            "code": "&#x1F374",
+            "aliases": []
+        },
+        "cooking": {
+            "code": "&#x1F373",
+            "aliases": []
+        }
+    },
+    "Celebration": {
+        "jack_o_lantern": {
+            "code": "&#x1F383",
+            "aliases": []
+
+        },
+        "japanese_ogre": {
+            "code": "&#x1F479",
+            "aliases": []
+        },
+        "japanese_goblin": {
+            "code": "&#x1F47A",
+            "aliases": []
+        },
+        "ghost": {
+            "code": "&#x1F47B",
+            "aliases": []
+        },
+        "skull": {
+            "code": "&#x1F480",
+            "aliases": []
+        },
+        "skull_and_crossbones": {
+            "code": "&#x2620",
+            "aliases": []
+        },
+        "extraterrestrial_alien": {
+            "code": "&#x1F47D",
+            "aliases": []
+        },
+        "alien_monster": {
+            "code": "&#x1F47E",
+            "aliases": []
+        },
+        "pile_of_poo": {
+            "code": "&#x1F4A9",
+            "aliases": []
+        },
+        "christmas_tree": {
+            "code": "&#x1F384",
+            "aliases": []
+        },
+        "fireworks": {
+            "code": "&#x1F386",
+            "aliases": []
+        },
+        "firework_sparkler": {
+            "code": "&#x1F387",
+            "aliases": []
+        },
+        "sparkles": {
+            "code": "&#x2728",
+            "aliases": []
+        },
+        "balloon": {
+            "code": "&#x1F388",
+            "aliases": []
+        },
+        "party_popper": {
+            "code": "&#x1F389",
+            "aliases": []
+        },
+        "confetti_ball": {
+            "code": "&#x1F38A",
+            "aliases": []
+        },
+        "tanabata_tree": {
+            "code": "&#x1F38B",
+            "aliases": []
+        },
+        "crossed_flags": {
+            "code": "&#x1F38C",
+            "aliases": []
+        },
+        "pine_decoration": {
+            "code": "&#x1F38D",
+            "aliases": []
+        },
+        "japanese_dolls": {
+            "code": "&#x1F38E",
+            "aliases": []
+        },
+        "carp_streamer": {
+            "code": "&#x1F38F",
+            "aliases": []
+        },
+        "wind_chime": {
+            "code": "&#x1F390",
+            "aliases": []
+        },
+        "moon_viewing_ceremony": {
+            "code": "&#x1F391",
+            "aliases": []
+        },
+        "graduation_cap": {
+            "code": "&#x1F393",
+            "aliases": []
+        },
+        "direct_hit": {
+            "code": "&#x1F3AF",
+            "aliases": []
+        },
+        "flower_playing_cards": {
+            "code": "&#x1F3B4",
+            "aliases": []
+        },
+        "ribbon": {
+            "code": "&#x1F380",
+            "aliases": []
+        },
+        "wrapped_present": {
+            "code": "&#x1F381",
+            "aliases": []
+        },
+        "ticket": {
+            "code": "&#x1F3AB",
+            "aliases": []
+        }
+    },
+    "Activity": {
+        "soccer_ball": {
+            "code": "&#x26BD",
+            "aliases": []
+        },
+        "basketball_and_hoop": {
+            "code": "&#x1F3C0",
+            "aliases": []
+        },
+        "american_football": {
+            "code": "&#x1F3C8",
+            "aliases": []
+        },
+        "rugby_football": {
+            "code": "&#x1F3C9",
+            "aliases": []
+        },
+        "tennis_racquet_and_ball": {
+            "code": "&#x1F3BE",
+            "aliases": []
+        },
+        "billiards": {
+            "code": "&#x1F3B1",
+            "aliases": []
+        },
+        "bowling": {
+            "code": "&#x1F3B3",
+            "aliases": []
+        },
+        "flag_in_hole": {
+            "code": "&#x26F3",
+            "aliases": []
+        },
+        "fishing_pole_and_fish": {
+            "code": "&#x1F3A3",
+            "aliases": []
+        },
+        "running_shirt_with_sash": {
+            "code": "&#x1F3BD",
+            "aliases": []
+        },
+        "ski_and_ski_boot": {
+            "code": "&#x1F3BF",
+            "aliases": []
+        },
+        "snowboarder": {
+            "code": "&#x1F3C2",
+            "aliases": []
+        },
+        "surfer": {
+            "code": "&#x1F3C4",
+            "aliases": []
+        },
+        "horse_racing": {
+            "code": "&#x1F3C7",
+            "aliases": []
+        },
+        "swimmer": {
+            "code": "&#x1F3CA",
+            "aliases": []
+        },
+        "weight_lifter": {
+            "code": "&#x1F3CB",
+            "aliases": []
+        },
+        "bicyclist": {
+            "code": "&#x1F6B4",
+            "aliases": []
+        },
+        "mountain_bicyclist": {
+            "code": "&#x1F6B5",
+            "aliases": []
+        },
+        "trophy": {
+            "code": "&#x1F3C6",
+            "aliases": []
+        },
+        "video_game": {
+            "code": "&#x1F3AE",
+            "aliases": []
+        },
+        "game_die": {
+            "code": "&#x1F3B2",
+            "aliases": []
+        },
+        "black_spade_suit": {
+            "code": "&#x2660",
+            "aliases": []
+        },
+        "black_heart_suit": {
+            "code": "&#x2665",
+            "aliases": []
+        },
+        "black_diamond_suit": {
+            "code": "&#x2666",
+            "aliases": []
+        },
+        "black_club_suit": {
+            "code": "&#x2663",
+            "aliases": []
+        },
+        "playing_card_black_joker": {
+            "code": "&#x1F0CF",
+            "aliases": []
+        },
+        "mahjong_tile_red_dragon": {
+            "code": "&#x1F004",
+            "aliases": []
+        }
+    },
+    "Travel & Places": {
+        "earth_globe_europe_africa": {
+            "code": "&#x1F30D",
+            "aliases": []
+        },
+        "earth_globe_americas": {
+            "code": "&#x1F30E",
+            "aliases": []
+        },
+        "earth_globe_asia_australia": {
+            "code": "&#x1F30F",
+            "aliases": []
+        },
+        "globe_with_meridians": {
+            "code": "&#x1F310",
+            "aliases": []
+        },
+        "volcano": {
+            "code": "&#x1F30B",
+            "aliases": []
+        },
+        "mount_fuji": {
+            "code": "&#x1F5FB",
+            "aliases": []
+        },
+        "house_building": {
+            "code": "&#x1F3E0",
+            "aliases": []
+        },
+        "house_with_garden": {
+            "code": "&#x1F3E1",
+            "aliases": []
+        },
+        "church": {
+            "code": "&#x26EA",
+            "aliases": []
+        },
+        "office_building": {
+            "code": "&#x1F3E2",
+            "aliases": []
+        },
+        "japanese_post_office": {
+            "code": "&#x1F3E3",
+            "aliases": []
+        },
+        "european_post_office": {
+            "code": "&#x1F3E4",
+            "aliases": []
+        },
+        "hospital": {
+            "code": "&#x1F3E5",
+            "aliases": []
+        },
+        "bank": {
+            "code": "&#x1F3E6",
+            "aliases": []
+        },
+        "hotel": {
+            "code": "&#x1F3E8",
+            "aliases": []
+        },
+        "love_hotel": {
+            "code": "&#x1F3E9",
+            "aliases": []
+        },
+        "convenience_store": {
+            "code": "&#x1F3EA",
+            "aliases": []
+        },
+        "school": {
+            "code": "&#x1F3EB",
+            "aliases": []
+        },
+        "department_store": {
+            "code": "&#x1F3EC",
+            "aliases": []
+        },
+        "factory": {
+            "code": "&#x1F3ED",
+            "aliases": []
+        },
+        "japanese_castle": {
+            "code": "&#x1F3EF",
+            "aliases": []
+        },
+        "european_castle": {
+            "code": "&#x1F3F0",
+            "aliases": []
+        },
+        "wedding": {
+            "code": "&#x1F492",
+            "aliases": []
+        },
+        "tokyo_tower": {
+            "code": "&#x1F5FC",
+            "aliases": []
+        },
+        "statue_of_liberty": {
+            "code": "&#x1F5FD",
+            "aliases": []
+        },
+        "silhouette_of_japan": {
+            "code": "&#x1F5FE",
+            "aliases": []
+        },
+        "fountain": {
+            "code": "&#x26F2",
+            "aliases": []
+        },
+        "tent": {
+            "code": "&#x26FA",
+            "aliases": []
+        },
+        "foggy": {
+            "code": "&#x1F301",
+            "aliases": []
+        },
+        "night_with_stars": {
+            "code": "&#x1F303",
+            "aliases": []
+        },
+        "sunrise_over_mountains": {
+            "code": "&#x1F304",
+            "aliases": []
+        },
+        "sunrise": {
+            "code": "&#x1F305",
+            "aliases": []
+        },
+        "cityscape_at_dusk": {
+            "code": "&#x1F306",
+            "aliases": []
+        },
+        "sunset_over_buildings": {
+            "code": "&#x1F307",
+            "aliases": []
+        },
+        "bridge_at_night": {
+            "code": "&#x1F309",
+            "aliases": []
+        },
+        "water_wave": {
+            "code": "&#x1F30A",
+            "aliases": []
+        },
+        "moyai": {
+            "code": "&#x1F5FF",
+            "aliases": []
+        },
+        "milky_way": {
+            "code": "&#x1F30C",
+            "aliases": []
+        },
+        "carousel_horse": {
+            "code": "&#x1F3A0",
+            "aliases": []
+        },
+        "ferris_wheel": {
+            "code": "&#x1F3A1",
+            "aliases": []
+        },
+        "roller_coaster": {
+            "code": "&#x1F3A2",
+            "aliases": []
+        },
+        "barber_pole": {
+            "code": "&#x1F488",
+            "aliases": []
+        },
+        "circus_tent": {
+            "code": "&#x1F3AA",
+            "aliases": []
+        },
+        "performing_arts": {
+            "code": "&#x1F3AD",
+            "aliases": []
+        },
+        "artist_palette": {
+            "code": "&#x1F3A8",
+            "aliases": []
+        },
+        "slot_machine": {
+            "code": "&#x1F3B0",
+            "aliases": []
+        },
+        "steam_locomotive": {
+            "code": "&#x1F682",
+            "aliases": []
+        },
+        "railway_car": {
+            "code": "&#x1F683",
+            "aliases": []
+        },
+        "high_speed_train": {
+            "code": "&#x1F684",
+            "aliases": []
+        },
+        "high_speed_train_with_bullet_nose": {
+            "code": "&#x1F685",
+            "aliases": []
+        },
+        "train": {
+            "code": "&#x1F686",
+            "aliases": []
+        },
+        "metro": {
+            "code": "&#x1F687",
+            "aliases": []
+        },
+        "light_rail": {
+            "code": "&#x1F688",
+            "aliases": []
+        },
+        "station": {
+            "code": "&#x1F689",
+            "aliases": []
+        },
+        "tram": {
+            "code": "&#x1F68A",
+            "aliases": []
+        },
+        "monorail": {
+            "code": "&#x1F69D",
+            "aliases": []
+        },
+        "mountain_railway": {
+            "code": "&#x1F69E",
+            "aliases": []
+        },
+        "tram_car": {
+            "code": "&#x1F68B",
+            "aliases": []
+        },
+        "bus": {
+            "code": "&#x1F68C",
+            "aliases": []
+        },
+        "oncoming_bus": {
+            "code": "&#x1F68D",
+            "aliases": []
+        },
+        "trolleybus": {
+            "code": "&#x1F68E",
+            "aliases": []
+        },
+        "bus_stop": {
+            "code": "&#x1F68F",
+            "aliases": []
+        },
+        "minibus": {
+            "code": "&#x1F690",
+            "aliases": []
+        },
+        "ambulance": {
+            "code": "&#x1F691",
+            "aliases": []
+        },
+        "fire_engine": {
+            "code": "&#x1F692",
+            "aliases": []
+        },
+        "police_car": {
+            "code": "&#x1F693",
+            "aliases": []
+        },
+        "oncoming_police_car": {
+            "code": "&#x1F694",
+            "aliases": []
+        },
+        "taxi": {
+            "code": "&#x1F695",
+            "aliases": []
+        },
+        "oncoming_taxi": {
+            "code": "&#x1F696",
+            "aliases": []
+        },
+        "automobile": {
+            "code": "&#x1F697",
+            "aliases": []
+        },
+        "oncoming_automobile": {
+            "code": "&#x1F698",
+            "aliases": []
+        },
+        "recreational_vehicle": {
+            "code": "&#x1F699",
+            "aliases": []
+        },
+        "delivery_truck": {
+            "code": "&#x1F69A",
+            "aliases": []
+        },
+        "articulated_lorry": {
+            "code": "&#x1F69B",
+            "aliases": []
+        },
+        "tractor": {
+            "code": "&#x1F69C",
+            "aliases": []
+        },
+        "bicycle": {
+            "code": "&#x1F6B2",
+            "aliases": []
+        },
+        "no_bicycles": {
+            "code": "&#x1F6B3",
+            "aliases": []
+        },
+        "fuel_pump": {
+            "code": "&#x26FD",
+            "aliases": []
+        },
+        "police_cars_revolving_light": {
+            "code": "&#x1F6A8",
+            "aliases": []
+        },
+        "anchor": {
+            "code": "&#x2693",
+            "aliases": []
+        },
+        "trident_emblem": {
+            "code": "&#x1F531",
+            "aliases": []
+        },
+        "sailboat": {
+            "code": "&#x26F5",
+            "aliases": []
+        },
+        "rowboat": {
+            "code": "&#x1F6A3",
+            "aliases": []
+        },
+        "speedboat": {
+            "code": "&#x1F6A4",
+            "aliases": []
+        },
+        "ship": {
+            "code": "&#x1F6A2",
+            "aliases": []
+        },
+        "airplane": {
+            "code": "&#x2708",
+            "aliases": []
+        },
+        "seat": {
+            "code": "&#x1F4BA",
+            "aliases": []
+        },
+        "helicopter": {
+            "code": "&#x1F681",
+            "aliases": []
+        },
+        "suspension_railway": {
+            "code": "&#x1F69F",
+            "aliases": []
+        },
+        "mountain_cableway": {
+            "code": "&#x1F6A0",
+            "aliases": []
+        },
+        "aerial_tramway": {
+            "code": "&#x1F6A1",
+            "aliases": []
+        },
+        "rocket": {
+            "code": "&#x1F680",
+            "aliases": []
+        },
+        "automated_teller_machine": {
+            "code": "&#x1F3E7",
+            "aliases": []
+        },
+        "put_litter_in_its_place_symbol": {
+            "code": "&#x1F6AE",
+            "aliases": []
+        },
+        "horizontal_traffic_light": {
+            "code": "&#x1F6A5",
+            "aliases": []
+        },
+        "vertical_traffic_light": {
+            "code": "&#x1F6A6",
+            "aliases": []
+        },
+        "construction_sign": {
+            "code": "&#x1F6A7",
+            "aliases": []
+        },
+        "no_entry_sign": {
+            "code": "&#x1F6AB",
+            "aliases": []
+        },
+        "no_smoking_symbol": {
+            "code": "&#x1F6AD",
+            "aliases": []
+        },
+        "do_not_litter_symbol": {
+            "code": "&#x1F6AF",
+            "aliases": []
+        },
+        "potable_water_symbol": {
+            "code": "&#x1F6B0",
+            "aliases": []
+        },
+        "non_potable_water_symbol": {
+            "code": "&#x1F6B1",
+            "aliases": []
+        },
+        "no_pedestrians": {
+            "code": "&#x1F6B7",
+            "aliases": []
+        },
+        "children_crossing": {
+            "code": "&#x1F6B8",
+            "aliases": []
+        },
+        "wheelchair_symbol": {
+            "code": "&#x267F",
+            "aliases": []
+        },
+        "mens_symbol": {
+            "code": "&#x1F6B9",
+            "aliases": []
+        },
+        "womens_symbol": {
+            "code": "&#x1F6BA",
+            "aliases": []
+        },
+        "restroom": {
+            "code": "&#x1F6BB",
+            "aliases": []
+        },
+        "baby_symbol": {
+            "code": "&#x1F6BC",
+            "aliases": []
+        },
+        "water_closet": {
+            "code": "&#x1F6BE",
+            "aliases": []
+        },
+        "passport_control": {
+            "code": "&#x1F6C2",
+            "aliases": []
+        },
+        "customs": {
+            "code": "&#x1F6C3",
+            "aliases": []
+        },
+        "baggage_claim": {
+            "code": "&#x1F6C4",
+            "aliases": []
+        },
+        "left_luggage": {
+            "code": "&#x1F6C5",
+            "aliases": []
+        },
+        "no_entry": {
+            "code": "&#x26D4",
+            "aliases": []
+        },
+        "door": {
+            "code": "&#x1F6AA",
+            "aliases": []
+        },
+        "toilet": {
+            "code": "&#x1F6BD",
+            "aliases": []
+        },
+        "shower": {
+            "code": "&#x1F6BF",
+            "aliases": []
+        },
+        "bath": {
+            "code": "&#x1F6C0",
+            "aliases": []
+        },
+        "bathtub": {
+            "code": "&#x1F6C1",
+            "aliases": []
+
+        },
+        "money_bag": {
+            "code": "&#x1F4B0",
+            "aliases": []
+        },
+        "banknote_with_yen_sign": {
+            "code": "&#x1F4B4",
+            "aliases": []
+        },
+        "banknote_with_dollar_sign": {
+            "code": "&#x1F4B5",
+            "aliases": []
+        },
+        "banknote_with_euro_sign": {
+            "code": "&#x1F4B6",
+            "aliases": []
+        },
+        "banknote_with_pound_sign": {
+            "code": "&#x1F4B7",
+            "aliases": []
+        },
+        "money_with_wings": {
+            "code": "&#x1F4B8",
+            "aliases": []
+        },
+        "currency_exchange": {
+            "code": "&#x1F4B1",
+            "aliases": []
+        },
+        "heavy_dollar_sign": {
+            "code": "&#x1F4B2",
+            "aliases": []
+        },
+        "credit_card": {
+            "code": "&#x1F4B3",
+            "aliases": []
+        },
+        "chart_with_upwards_trend_and_yen_sign": {
+            "code": "&#x1F4B9",
+            "aliases": []
+
+        },
+        "flag_for_China": {
+            "code": "&#x1F1E8&#x1F1F3",
+            "aliases": []
+        },
+        "flag_for_France": {
+            "code": "&#x1F1EB&#x1F1F7",
+            "aliases": []
+        },
+        "flag_for_Germany": {
+            "code": "&#x1F1E9&#x1F1EA",
+            "aliases": []
+        },
+        "flag_for_Italy": {
+            "code": "&#x1F1EE&#x1F1F9",
+            "aliases": []
+        },
+        "flag_for_Japan": {
+            "code": "&#x1F1EF&#x1F1F5",
+            "aliases": []
+        },
+        "flag_for_Russia": {
+            "code": "&#x1F1F7&#x1F1FA",
+            "aliases": []
+        },
+        "flag_for_South_Korea": {
+            "code": "&#x1F1F0&#x1F1F7",
+            "aliases": []
+        },
+        "flag_for_Spain": {
+            "code": "&#x1F1EA&#x1F1F8",
+            "aliases": []
+        },
+        "flag_for_United_Kingdom": {
+            "code": "&#x1F1EC&#x1F1E7",
+            "aliases": []
+        },
+        "flag_for_United_States": {
+            "code": "&#x1F1FA&#x1F1F8",
+            "aliases": []
+        }
+    },
+    "Objects & Symbols": {
+        "eyeglasses": {
+            "code": "&#x1F453",
+            "aliases": []
+        },
+        "necktie": {
+            "code": "&#x1F454",
+            "aliases": []
+        },
+        "t_shirt": {
+            "code": "&#x1F455",
+            "aliases": []
+        },
+        "jeans": {
+            "code": "&#x1F456",
+            "aliases": []
+        },
+        "dress": {
+            "code": "&#x1F457",
+            "aliases": []
+        },
+        "kimono": {
+            "code": "&#x1F458",
+            "aliases": []
+        },
+        "bikini": {
+            "code": "&#x1F459",
+            "aliases": []
+        },
+        "womans_clothes": {
+            "code": "&#x1F45A",
+            "aliases": []
+        },
+        "purse": {
+            "code": "&#x1F45B",
+            "aliases": []
+        },
+        "handbag": {
+            "code": "&#x1F45C",
+            "aliases": []
+        },
+        "pouch": {
+            "code": "&#x1F45D",
+            "aliases": []
+        },
+        "school_satchel": {
+            "code": "&#x1F392",
+            "aliases": []
+        },
+        "mans_shoe": {
+            "code": "&#x1F45E",
+            "aliases": []
+        },
+        "athletic_shoe": {
+            "code": "&#x1F45F",
+            "aliases": []
+        },
+        "high_heeled_shoe": {
+            "code": "&#x1F460",
+            "aliases": []
+        },
+        "womans_sandal": {
+            "code": "&#x1F461",
+            "aliases": []
+        },
+        "womans_boots": {
+            "code": "&#x1F462",
+            "aliases": []
+        },
+        "crown": {
+            "code": "&#x1F451",
+            "aliases": []
+        },
+        "womans_hat": {
+            "code": "&#x1F452",
+            "aliases": []
+        },
+        "top_hat": {
+            "code": "&#x1F3A9",
+            "aliases": []
+
+        },
+        "lipstick": {
+            "code": "&#x1F484",
+            "aliases": []
+        },
+        "ring": {
+            "code": "&#x1F48D",
+            "aliases": []
+        },
+        "gem_stone": {
+            "code": "&#x1F48E",
+            "aliases": []
+        },
+        "chequered_flag": {
+            "code": "&#x1F3C1",
+            "aliases": []
+        },
+        "triangular_flag_on_post": {
+            "code": "&#x1F6A9",
+            "aliases": []
+        },
+        "hourglass": {
+            "code": "&#x231B",
+            "aliases": []
+        },
+        "hourglass_with_flowing_sand": {
+            "code": "&#x23F3",
+            "aliases": []
+        },
+        "watch": {
+            "code": "&#x231A",
+            "aliases": []
+        },
+        "alarm_clock": {
+            "code": "&#x23F0",
+            "aliases": []
+        },
+        "clock_face_twelve_oclock": {
+            "code": "&#x1F55B",
+            "aliases": []
+        },
+        "clock_face_twelve_thirty": {
+            "code": "&#x1F567",
+            "aliases": []
+        },
+        "clock_face_one_oclock": {
+            "code": "&#x1F550",
+            "aliases": []
+        },
+        "clock_face_one_thirty": {
+            "code": "&#x1F55C",
+            "aliases": []
+        },
+        "clock_face_two_oclock": {
+            "code": "&#x1F551",
+            "aliases": []
+        },
+        "clock_face_two_thirty": {
+            "code": "&#x1F55D",
+            "aliases": []
+        },
+        "clock_face_three_oclock": {
+            "code": "&#x1F552",
+            "aliases": []
+        },
+        "clock_face_three_thirty": {
+            "code": "&#x1F55E",
+            "aliases": []
+        },
+        "clock_face_four_oclock": {
+            "code": "&#x1F553",
+            "aliases": []
+        },
+        "clock_face_four_thirty": {
+            "code": "&#x1F55F",
+            "aliases": []
+        },
+        "clock_face_five_oclock": {
+            "code": "&#x1F554",
+            "aliases": []
+        },
+        "clock_face_five_thirty": {
+            "code": "&#x1F560",
+            "aliases": []
+        },
+        "clock_face_six_oclock": {
+            "code": "&#x1F555",
+            "aliases": []
+        },
+        "clock_face_six_thirty": {
+            "code": "&#x1F561",
+            "aliases": []
+        },
+        "clock_face_seven_oclock": {
+            "code": "&#x1F556",
+            "aliases": []
+        },
+        "clock_face_seven_thirty": {
+            "code": "&#x1F562",
+            "aliases": []
+        },
+        "clock_face_eight_oclock": {
+            "code": "&#x1F557",
+            "aliases": []
+        },
+        "clock_face_eight_thirty": {
+            "code": "&#x1F563",
+            "aliases": []
+        },
+        "clock_face_nine_oclock": {
+            "code": "&#x1F558",
+            "aliases": []
+        },
+        "clock_face_nine_thirty": {
+            "code": "&#x1F564",
+            "aliases": []
+        },
+        "clock_face_ten_oclock": {
+            "code": "&#x1F559",
+            "aliases": []
+        },
+        "clock_face_ten_thirty": {
+            "code": "&#x1F565",
+            "aliases": []
+        },
+        "clock_face_eleven_oclock": {
+            "code": "&#x1F55A",
+            "aliases": []
+        },
+        "clock_face_eleven_thirty": {
+            "code": "&#x1F566",
+            "aliases": []
+        },
+        "aries": {
+            "code": "&#x2648",
+            "aliases": []
+        },
+        "taurus": {
+            "code": "&#x2649",
+            "aliases": []
+        },
+        "gemini": {
+            "code": "&#x264A",
+            "aliases": []
+        },
+        "cancer": {
+            "code": "&#x264B",
+            "aliases": []
+        },
+        "leo": {
+            "code": "&#x264C",
+            "aliases": []
+        },
+        "virgo": {
+            "code": "&#x264D",
+            "aliases": []
+        },
+        "libra": {
+            "code": "&#x264E",
+            "aliases": []
+        },
+        "scorpius": {
+            "code": "&#x264F",
+            "aliases": []
+        },
+        "sagittarius": {
+            "code": "&#x2650",
+            "aliases": []
+        },
+        "capricorn": {
+            "code": "&#x2651",
+            "aliases": []
+        },
+        "aquarius": {
+            "code": "&#x2652",
+            "aliases": []
+        },
+        "pisces": {
+            "code": "&#x2653",
+            "aliases": []
+        },
+        "ophiuchus": {
+            "code": "&#x26CE",
+            "aliases": []
+
+        },
+        "envelope": {
+            "code": "&#x2709",
+            "aliases": []
+        },
+        "e_mail_symbol": {
+            "code": "&#x1F4E7",
+            "aliases": []
+        },
+        "incoming_envelope": {
+            "code": "&#x1F4E8",
+            "aliases": []
+        },
+        "envelope_with_downwards_arrow_above": {
+            "code": "&#x1F4E9",
+            "aliases": []
+        },
+        "outbox_tray": {
+            "code": "&#x1F4E4",
+            "aliases": []
+        },
+        "inbox_tray": {
+            "code": "&#x1F4E5",
+            "aliases": []
+        },
+        "package": {
+            "code": "&#x1F4E6",
+            "aliases": []
+        },
+        "closed_mailbox_with_raised_flag": {
+            "code": "&#x1F4EB",
+            "aliases": []
+        },
+        "closed_mailbox_with_lowered_flag": {
+            "code": "&#x1F4EA",
+            "aliases": []
+        },
+        "open_mailbox_with_raised_flag": {
+            "code": "&#x1F4EC",
+            "aliases": []
+        },
+        "open_mailbox_with_lowered_flag": {
+            "code": "&#x1F4ED",
+            "aliases": []
+        },
+        "postbox": {
+            "code": "&#x1F4EE",
+            "aliases": []
+        },
+        "memo": {
+            "code": "&#x1F4DD",
+            "aliases": []
+        },
+        "briefcase": {
+            "code": "&#x1F4BC",
+            "aliases": []
+        },
+        "file_folder": {
+            "code": "&#x1F4C1",
+            "aliases": []
+        },
+        "open_file_folder": {
+            "code": "&#x1F4C2",
+            "aliases": []
+
+        },
+        "calendar": {
+            "code": "&#x1F4C5",
+            "aliases": []
+        },
+        "tear_off_calendar": {
+            "code": "&#x1F4C6",
+            "aliases": []
+        },
+        "card_index": {
+            "code": "&#x1F4C7",
+            "aliases": []
+        },
+        "chart_with_upwards_trend": {
+            "code": "&#x1F4C8",
+            "aliases": []
+        },
+        "chart_with_downwards_trend": {
+            "code": "&#x1F4C9",
+            "aliases": []
+        },
+        "bar_chart": {
+            "code": "&#x1F4CA",
+            "aliases": []
+        },
+        "clipboard": {
+            "code": "&#x1F4CB",
+            "aliases": []
+        },
+        "pushpin": {
+            "code": "&#x1F4CC",
+            "aliases": []
+        },
+        "round_pushpin": {
+            "code": "&#x1F4CD",
+            "aliases": []
+        },
+        "paperclip": {
+            "code": "&#x1F4CE",
+            "aliases": []
+        },
+        "straight_ruler": {
+            "code": "&#x1F4CF",
+            "aliases": []
+        },
+        "triangular_ruler": {
+            "code": "&#x1F4D0",
+            "aliases": []
+        },
+        "name_badge": {
+            "code": "&#x1F4DB",
+            "aliases": []
+        },
+        "black_scissors": {
+            "code": "&#x2702",
+            "aliases": []
+        },
+        "lock": {
+            "code": "&#x1F512",
+            "aliases": []
+        },
+        "open_lock": {
+            "code": "&#x1F513",
+            "aliases": []
+        },
+        "lock_with_ink_pen": {
+            "code": "&#x1F50F",
+            "aliases": []
+        },
+        "closed_lock_with_key": {
+            "code": "&#x1F510",
+            "aliases": []
+        },
+        "key": {
+            "code": "&#x1F511",
+            "aliases": []
+        },
+        "hammer": {
+            "code": "&#x1F528",
+            "aliases": []
+        },
+        "wrench": {
+            "code": "&#x1F527",
+            "aliases": []
+        },
+        "nut_and_bolt": {
+            "code": "&#x1F529",
+            "aliases": []
+        },
+        "scales": {
+            "code": "&#x2696",
+            "aliases": []
+        },
+        "link_symbol": {
+            "code": "&#x1F517",
+            "aliases": []
+        },
+        "syringe": {
+            "code": "&#x1F489",
+            "aliases": []
+        },
+        "pill": {
+            "code": "&#x1F48A",
+            "aliases": []
+        },
+        "hocho": {
+            "code": "&#x1F52A",
+            "aliases": []
+        },
+        "crossed_swords": {
+            "code": "&#x2694",
+            "aliases": []
+        },
+        "pistol": {
+            "code": "&#x1F52B",
+            "aliases": []
+        },
+        "smoking_symbol": {
+            "code": "&#x1F6AC",
+            "aliases": []
+        },
+        "coffin": {
+            "code": "&#x26B0",
+            "aliases": []
+        },
+        "funeral_urn": {
+            "code": "&#x26B1",
+            "aliases": []
+
+        },
+        "speaker_with_cancellation_stroke": {
+            "code": "&#x1F507",
+            "aliases": []
+        },
+        "speaker": {
+            "code": "&#x1F508",
+            "aliases": []
+        },
+        "speaker_with_one_sound_wave": {
+            "code": "&#x1F509",
+            "aliases": []
+        },
+        "speaker_with_three_sound_waves": {
+            "code": "&#x1F50A",
+            "aliases": []
+        },
+        "public_address_loudspeaker": {
+            "code": "&#x1F4E2",
+            "aliases": []
+        },
+        "cheering_megaphone": {
+            "code": "&#x1F4E3",
+            "aliases": []
+        },
+        "postal_horn": {
+            "code": "&#x1F4EF",
+            "aliases": []
+        },
+        "bell": {
+            "code": "&#x1F514",
+            "aliases": []
+        },
+        "bell_with_cancellation_stroke": {
+            "code": "&#x1F515",
+            "aliases": []
+        },
+        "twisted_rightwards_arrows": {
+            "code": "&#x1F500",
+            "aliases": []
+        },
+        "clockwise_rightwards_and_leftwards_open_circle_arrows": {
+            "code": "&#x1F501",
+            "aliases": []
+        },
+        "clockwise_rightwards_and_leftwards_open_circle_arrows_with_circled_one_overlay": {
+            "code": "&#x1F502",
+            "aliases": []
+        },
+        "black_right_pointing_triangle": {
+            "code": "&#x25B6",
+            "aliases": []
+        },
+        "black_right_pointing_double_triangle": {
+            "code": "&#x23E9",
+            "aliases": []
+        },
+        "black_left_pointing_triangle": {
+            "code": "&#x25C0",
+            "aliases": []
+        },
+        "black_left_pointing_double_triangle": {
+            "code": "&#x23EA",
+            "aliases": []
+        },
+        "up_pointing_small_red_triangle": {
+            "code": "&#x1F53C",
+            "aliases": []
+        },
+        "black_up_pointing_double_triangle": {
+            "code": "&#x23EB",
+            "aliases": []
+        },
+        "down_pointing_small_red_triangle": {
+            "code": "&#x1F53D",
+            "aliases": []
+        },
+        "black_down_pointing_double_triangle": {
+            "code": "&#x23EC",
+            "aliases": []
+        },
+        "eject_symbol": {
+            "code": "&#x23CF",
+            "aliases": []
+        },
+        "musical_score": {
+            "code": "&#x1F3BC",
+            "aliases": []
+        },
+        "musical_note": {
+            "code": "&#x1F3B5",
+            "aliases": []
+        },
+        "multiple_musical_notes": {
+            "code": "&#x1F3B6",
+            "aliases": []
+        },
+        "microphone": {
+            "code": "&#x1F3A4",
+            "aliases": []
+        },
+        "headphone": {
+            "code": "&#x1F3A7",
+            "aliases": []
+        },
+        "saxophone": {
+            "code": "&#x1F3B7",
+            "aliases": []
+        },
+        "guitar": {
+            "code": "&#x1F3B8",
+            "aliases": []
+        },
+        "musical_keyboard": {
+            "code": "&#x1F3B9",
+            "aliases": []
+        },
+        "trumpet": {
+            "code": "&#x1F3BA",
+            "aliases": []
+        },
+        "violin": {
+            "code": "&#x1F3BB",
+            "aliases": []
+        },
+        "radio": {
+            "code": "&#x1F4FB",
+            "aliases": []
+
+        },
+        "mobile_phone": {
+            "code": "&#x1F4F1",
+            "aliases": []
+        },
+        "vibration_mode": {
+            "code": "&#x1F4F3",
+            "aliases": []
+        },
+        "mobile_phone_off": {
+            "code": "&#x1F4F4",
+            "aliases": []
+        },
+        "mobile_phone_with_rightwards_arrow_at_left": {
+            "code": "&#x1F4F2",
+            "aliases": []
+        },
+        "no_mobile_phones": {
+            "code": "&#x1F4F5",
+            "aliases": []
+        },
+        "black_telephone": {
+            "code": "&#x260E",
+            "aliases": []
+        },
+        "telephone_receiver": {
+            "code": "&#x1F4DE",
+            "aliases": []
+        },
+        "keycap_ten": {
+            "code": "&#x1F51F",
+            "aliases": []
+        },
+        "antenna_with_bars": {
+            "code": "&#x1F4F6",
+            "aliases": []
+        },
+        "pager": {
+            "code": "&#x1F4DF",
+            "aliases": []
+        },
+        "fax_machine": {
+            "code": "&#x1F4E0",
+            "aliases": []
+        },
+        "battery": {
+            "code": "&#x1F50B",
+            "aliases": []
+        },
+        "electric_plug": {
+            "code": "&#x1F50C",
+            "aliases": []
+        },
+        "personal_computer": {
+            "code": "&#x1F4BB",
+            "aliases": []
+        },
+        "keyboard": {
+            "code": "&#x2328",
+            "aliases": []
+        },
+        "minidisc": {
+            "code": "&#x1F4BD",
+            "aliases": []
+        },
+        "floppy_disk": {
+            "code": "&#x1F4BE",
+            "aliases": []
+        },
+        "optical_disc": {
+            "code": "&#x1F4BF",
+            "aliases": []
+        },
+        "dvd": {
+            "code": "&#x1F4C0",
+            "aliases": []
+        },
+        "movie_camera": {
+            "code": "&#x1F3A5",
+            "aliases": []
+        },
+        "cinema": {
+            "code": "&#x1F3A6",
+            "aliases": []
+        },
+        "clapper_board": {
+            "code": "&#x1F3AC",
+            "aliases": []
+        },
+        "television": {
+            "code": "&#x1F4FA",
+            "aliases": []
+        },
+        "camera": {
+            "code": "&#x1F4F7",
+            "aliases": []
+        },
+        "video_camera": {
+            "code": "&#x1F4F9",
+            "aliases": []
+        },
+        "videocassette": {
+            "code": "&#x1F4FC",
+            "aliases": []
+        },
+        "low_brightness_symbol": {
+            "code": "&#x1F505",
+            "aliases": []
+        },
+        "high_brightness_symbol": {
+            "code": "&#x1F506",
+            "aliases": []
+        },
+        "left_pointing_magnifying_glass": {
+            "code": "&#x1F50D",
+            "aliases": []
+        },
+        "right_pointing_magnifying_glass": {
+            "code": "&#x1F50E",
+            "aliases": []
+        },
+        "microscope": {
+            "code": "&#x1F52C",
+            "aliases": []
+        },
+        "telescope": {
+            "code": "&#x1F52D",
+            "aliases": []
+        },
+        "satellite_antenna": {
+            "code": "&#x1F4E1",
+            "aliases": []
+        },
+        "electric_light_bulb": {
+            "code": "&#x1F4A1",
+            "aliases": []
+        },
+        "electric_torch": {
+            "code": "&#x1F526",
+            "aliases": []
+        },
+        "izakaya_lantern": {
+            "code": "&#x1F3EE",
+            "aliases": []
+        },
+        "notebook_with_decorative_cover": {
+            "code": "&#x1F4D4",
+            "aliases": []
+        },
+        "closed_book": {
+            "code": "&#x1F4D5",
+            "aliases": []
+        },
+        "open_book": {
+            "code": "&#x1F4D6",
+            "aliases": []
+        },
+        "green_book": {
+            "code": "&#x1F4D7",
+            "aliases": []
+        },
+        "blue_book": {
+            "code": "&#x1F4D8",
+            "aliases": []
+        },
+        "orange_book": {
+            "code": "&#x1F4D9",
+            "aliases": []
+        },
+        "books": {
+            "code": "&#x1F4DA",
+            "aliases": []
+        },
+        "notebook": {
+            "code": "&#x1F4D3",
+            "aliases": []
+        },
+        "ledger": {
+            "code": "&#x1F4D2",
+            "aliases": []
+        },
+        "page_with_curl": {
+            "code": "&#x1F4C3",
+            "aliases": []
+        },
+        "scroll": {
+            "code": "&#x1F4DC",
+            "aliases": []
+        },
+        "page_facing_up": {
+            "code": "&#x1F4C4",
+            "aliases": []
+        },
+        "newspaper": {
+            "code": "&#x1F4F0",
+            "aliases": []
+        },
+        "bookmark_tabs": {
+            "code": "&#x1F4D1",
+            "aliases": []
+        },
+        "bookmark": {
+            "code": "&#x1F516",
+            "aliases": []
+
+        },
+        "upwards_black_arrow": {
+            "code": "&#x2B06",
+            "aliases": []
+        },
+        "north_east_arrow": {
+            "code": "&#x2197",
+            "aliases": []
+        },
+        "black_rightwards_arrow": {
+            "code": "&#x27A1",
+            "aliases": []
+        },
+        "south_east_arrow": {
+            "code": "&#x2198",
+            "aliases": []
+        },
+        "downwards_black_arrow": {
+            "code": "&#x2B07",
+            "aliases": []
+        },
+        "south_west_arrow": {
+            "code": "&#x2199",
+            "aliases": []
+        },
+        "leftwards_black_arrow": {
+            "code": "&#x2B05",
+            "aliases": []
+        },
+        "north_west_arrow": {
+            "code": "&#x2196",
+            "aliases": []
+        },
+        "up_down_arrow": {
+            "code": "&#x2195",
+            "aliases": []
+        },
+        "left_right_arrow": {
+            "code": "&#x2194",
+            "aliases": []
+        },
+        "leftwards_arrow_with_hook": {
+            "code": "&#x21A9",
+            "aliases": []
+        },
+        "rightwards_arrow_with_hook": {
+            "code": "&#x21AA",
+            "aliases": []
+        },
+        "arrow_pointing_rightwards_then_curving_upwards": {
+            "code": "&#x2934",
+            "aliases": []
+        },
+        "arrow_pointing_rightwards_then_curving_downwards": {
+            "code": "&#x2935",
+            "aliases": []
+        },
+        "clockwise_downwards_and_upwards_open_circle_arrows": {
+            "code": "&#x1F503",
+            "aliases": []
+        },
+        "anticlockwise_downwards_and_upwards_open_circle_arrows": {
+            "code": "&#x1F504",
+            "aliases": []
+        },
+        "back_with_leftwards_arrow_above": {
+            "code": "&#x1F519",
+            "aliases": []
+        },
+        "end_with_leftwards_arrow_above": {
+            "code": "&#x1F51A",
+            "aliases": []
+        },
+        "on_with_exclamation_mark_with_left_right_arrow_above": {
+            "code": "&#x1F51B",
+            "aliases": []
+        },
+        "soon_with_rightwards_arrow_above": {
+            "code": "&#x1F51C",
+            "aliases": []
+        },
+        "top_with_upwards_arrow_above": {
+            "code": "&#x1F51D",
+            "aliases": []
+        },
+        "fleur_de_lis": {
+            "code": "&#x269C",
+            "aliases": []
+        },
+        "japanese_symbol_for_beginner": {
+            "code": "&#x1F530",
+            "aliases": []
+        },
+        "atom_symbol": {
+            "code": "&#x269B",
+            "aliases": []
+        },
+        "star_of_david": {
+            "code": "&#x2721",
+            "aliases": []
+        },
+        "wheel_of_dharma": {
+            "code": "&#x2638",
+            "aliases": []
+        },
+        "yin_yang": {
+            "code": "&#x262F",
+            "aliases": []
+        },
+        "latin_cross": {
+            "code": "&#x271D",
+            "aliases": []
+        },
+        "orthodox_cross": {
+            "code": "&#x2626",
+            "aliases": []
+        },
+        "shinto_shrine": {
+            "code": "&#x26E9",
+            "aliases": []
+        },
+        "star_and_crescent": {
+            "code": "&#x262A",
+            "aliases": []
+        },
+        "peace_symbol": {
+            "code": "&#x262E",
+            "aliases": []
+        },
+        "crystal_ball": {
+            "code": "&#x1F52E",
+            "aliases": []
+        },
+        "six_pointed_star_with_middle_dot": {
+            "code": "&#x1F52F",
+            "aliases": []
+        },
+        "black_universal_recycling_symbol": {
+            "code": "&#x267B",
+            "aliases": []
+        },
+        "radioactive_sign": {
+            "code": "&#x2622",
+            "aliases": []
+        },
+        "biohazard_sign": {
+            "code": "&#x2623",
+            "aliases": []
+        },
+        "high_voltage_sign": {
+            "code": "&#x26A1",
+            "aliases": []
+        },
+        "white_medium_star": {
+            "code": "&#x2B50",
+            "aliases": []
+        },
+        "heavy_large_circle": {
+            "code": "&#x2B55",
+            "aliases": []
+        },
+        "white_heavy_check_mark": {
+            "code": "&#x2705",
+            "aliases": []
+        },
+        "ballot_box_with_check": {
+            "code": "&#x2611",
+            "aliases": []
+        },
+        "heavy_check_mark": {
+            "code": "&#x2714",
+            "aliases": []
+        },
+        "heavy_multiplication_x": {
+            "code": "&#x2716",
+            "aliases": []
+        },
+        "cross_mark": {
+            "code": "&#x274C",
+            "aliases": []
+        },
+        "negative_squared_cross_mark": {
+            "code": "&#x274E",
+            "aliases": []
+        },
+        "heavy_plus_sign": {
+            "code": "&#x2795",
+            "aliases": []
+        },
+        "heavy_minus_sign": {
+            "code": "&#x2796",
+            "aliases": []
+        },
+        "heavy_division_sign": {
+            "code": "&#x2797",
+            "aliases": []
+        },
+        "curly_loop": {
+            "code": "&#x27B0",
+            "aliases": []
+        },
+        "double_curly_loop": {
+            "code": "&#x27BF",
+            "aliases": []
+        },
+        "part_alternation_mark": {
+            "code": "&#x303D",
+            "aliases": []
+        },
+        "eight_spoked_asterisk": {
+            "code": "&#x2733",
+            "aliases": []
+        },
+        "eight_pointed_black_star": {
+            "code": "&#x2734",
+            "aliases": []
+        },
+        "sparkle": {
+            "code": "&#x2747",
+            "aliases": []
+        },
+        "double_exclamation_mark": {
+            "code": "&#x203C",
+            "aliases": []
+        },
+        "exclamation_question_mark": {
+            "code": "&#x2049",
+            "aliases": []
+        },
+        "black_question_mark_ornament": {
+            "code": "&#x2753",
+            "aliases": []
+        },
+        "white_question_mark_ornament": {
+            "code": "&#x2754",
+            "aliases": []
+        },
+        "white_exclamation_mark_ornament": {
+            "code": "&#x2755",
+            "aliases": []
+        },
+        "heavy_exclamation_mark_symbol": {
+            "code": "&#x2757",
+            "aliases": []
+        },
+        "wavy_dash": {
+            "code": "&#x3030",
+            "aliases": []
+        },
+        "copyright_sign": {
+            "code": "&#x00A9",
+            "aliases": []
+        },
+        "registered_sign": {
+            "code": "&#x00AE",
+            "aliases": []
+        },
+        "trade_mark_sign": {
+            "code": "&#x2122",
+            "aliases": []
+        },
+        "hundred_points_symbol": {
+            "code": "&#x1F4AF",
+            "aliases": []
+        },
+        "no_one_under_eighteen_symbol": {
+            "code": "&#x1F51E",
+            "aliases": []
+        },
+        "input_symbol_for_latin_capital_letters": {
+            "code": "&#x1F520",
+            "aliases": []
+        },
+        "input_symbol_for_latin_small_letters": {
+            "code": "&#x1F521",
+            "aliases": []
+        },
+        "input_symbol_for_numbers": {
+            "code": "&#x1F522",
+            "aliases": []
+        },
+        "input_symbol_for_symbols": {
+            "code": "&#x1F523",
+            "aliases": []
+        },
+        "input_symbol_for_latin_letters": {
+            "code": "&#x1F524",
+            "aliases": []
+        },
+        "negative_squared_latin_capital_letter_a": {
+            "code": "&#x1F170",
+            "aliases": []
+        },
+        "negative_squared_ab": {
+            "code": "&#x1F18E",
+            "aliases": []
+        },
+        "negative_squared_latin_capital_letter_b": {
+            "code": "&#x1F171",
+            "aliases": []
+        },
+        "squared_cl": {
+            "code": "&#x1F191",
+            "aliases": []
+        },
+        "squared_cool": {
+            "code": "&#x1F192",
+            "aliases": []
+        },
+        "squared_free": {
+            "code": "&#x1F193",
+            "aliases": []
+        },
+        "information_source": {
+            "code": "&#x2139",
+            "aliases": []
+        },
+        "squared_id": {
+            "code": "&#x1F194",
+            "aliases": []
+        },
+        "circled_latin_capital_letter_m": {
+            "code": "&#x24C2",
+            "aliases": []
+        },
+        "squared_new": {
+            "code": "&#x1F195",
+            "aliases": []
+        },
+        "squared_ng": {
+            "code": "&#x1F196",
+            "aliases": []
+        },
+        "negative_squared_latin_capital_letter_o": {
+            "code": "&#x1F17E",
+            "aliases": []
+        },
+        "squared_ok": {
+            "code": "&#x1F197",
+            "aliases": []
+        },
+        "negative_squared_latin_capital_letter_p": {
+            "code": "&#x1F17F",
+            "aliases": []
+        },
+        "squared_sos": {
+            "code": "&#x1F198",
+            "aliases": []
+        },
+        "squared_up_with_exclamation_mark": {
+            "code": "&#x1F199",
+            "aliases": []
+        },
+        "squared_vs": {
+            "code": "&#x1F19A",
+            "aliases": []
+        },
+        "squared_katakana_koko": {
+            "code": "&#x1F201",
+            "aliases": []
+        },
+        "squared_katakana_sa": {
+            "code": "&#x1F202",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_6708": {
+            "code": "&#x1F237",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_6709": {
+            "code": "&#x1F236",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_6307": {
+            "code": "&#x1F22F",
+            "aliases": []
+        },
+        "circled_ideograph_advantage": {
+            "code": "&#x1F250",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_5272": {
+            "code": "&#x1F239",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_7121": {
+            "code": "&#x1F21A",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_7981": {
+            "code": "&#x1F232",
+            "aliases": []
+        },
+        "circled_ideograph_accept": {
+            "code": "&#x1F251",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_7533": {
+            "code": "&#x1F238",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_5408": {
+            "code": "&#x1F234",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_7a7a": {
+            "code": "&#x1F233",
+            "aliases": []
+        },
+        "circled_ideograph_congratulation": {
+            "code": "&#x3297",
+            "aliases": []
+        },
+        "circled_ideograph_secret": {
+            "code": "&#x3299",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_55b6": {
+            "code": "&#x1F23A",
+            "aliases": []
+        },
+        "squared_cjk_unified_ideograph_6e80": {
+            "code": "&#x1F235",
+            "aliases": []
+        },
+        "black_small_square": {
+            "code": "&#x25AA",
+            "aliases": []
+        },
+        "white_small_square": {
+            "code": "&#x25AB",
+            "aliases": []
+        },
+        "white_medium_square": {
+            "code": "&#x25FB",
+            "aliases": []
+        },
+        "black_medium_square": {
+            "code": "&#x25FC",
+            "aliases": []
+        },
+        "white_medium_small_square": {
+            "code": "&#x25FD",
+            "aliases": []
+        },
+        "black_medium_small_square": {
+            "code": "&#x25FE",
+            "aliases": []
+        },
+        "black_large_square": {
+            "code": "&#x2B1B",
+            "aliases": []
+        },
+        "white_large_square": {
+            "code": "&#x2B1C",
+            "aliases": []
+        },
+        "large_orange_diamond": {
+            "code": "&#x1F536",
+            "aliases": []
+        },
+        "large_blue_diamond": {
+            "code": "&#x1F537",
+            "aliases": []
+        },
+        "small_orange_diamond": {
+            "code": "&#x1F538",
+            "aliases": []
+        },
+        "small_blue_diamond": {
+            "code": "&#x1F539",
+            "aliases": []
+        },
+        "up_pointing_red_triangle": {
+            "code": "&#x1F53A",
+            "aliases": []
+        },
+        "down_pointing_red_triangle": {
+            "code": "&#x1F53B",
+            "aliases": []
+        },
+        "diamond_shape_with_a_dot_inside": {
+            "code": "&#x1F4A0",
+            "aliases": []
+        },
+        "radio_button": {
+            "code": "&#x1F518",
+            "aliases": []
+        },
+        "black_square_button": {
+            "code": "&#x1F532",
+            "aliases": []
+        },
+        "white_square_button": {
+            "code": "&#x1F533",
+            "aliases": []
+        },
+        "medium_white_circle": {
+            "code": "&#x26AA",
+            "aliases": []
+        },
+        "medium_black_circle": {
+            "code": "&#x26AB",
+            "aliases": []
+        },
+        "large_red_circle": {
+            "code": "&#x1F534",
+            "aliases": []
+        },
+        "large_blue_circle": {
+            "code": "&#x1F535",
+            "aliases": []
+
+        },
+        "heart_decoration": {
+            "code": "&#x1F49F",
+            "aliases": []
+        },
+        "love_letter": {
+            "code": "&#x1F48C",
+            "aliases": []
+        },
+        "droplet": {
+            "code": "&#x1F4A7",
+            "aliases": []
+        },
+        "sleeping_symbol": {
+            "code": "&#x1F4A4",
+            "aliases": []
+        },
+        "anger_symbol": {
+            "code": "&#x1F4A2",
+            "aliases": []
+        },
+        "bomb": {
+            "code": "&#x1F4A3",
+            "aliases": []
+        },
+        "collision_symbol": {
+            "code": "&#x1F4A5",
+            "aliases": []
+        },
+        "splashing_sweat_symbol": {
+            "code": "&#x1F4A6",
+            "aliases": []
+        },
+        "dash_symbol": {
+            "code": "&#x1F4A8",
+            "aliases": []
+        },
+        "dizzy_symbol": {
+            "code": "&#x1F4AB",
+            "aliases": []
+        },
+        "speech_balloon": {
+            "code": "&#x1F4AC",
+            "aliases": []
+        },
+        "thought_balloon": {
+            "code": "&#x1F4AD",
+            "aliases": []
+        }
+    }
+}

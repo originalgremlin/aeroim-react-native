@@ -28,22 +28,7 @@ var getLocales = function (locale, defaultLocale) {
 };
 
 var getTranslations = function () {
-    var dirname = path.join(__dirname, 'assets/i18n'),
-        translations = {};
-    /*
-     * XXX: in theory this should work for browsers and Electron
-     * XXX: in practice watchify/brfs isn't working
-     *
-    fs.readdirSync(dirname).filter(function (filename) {
-        return path.extname(filename) === '.json';
-    }).forEach(function (filename) {
-        var locale = path.basename(filename, '.json'),
-            contents = fs.readFileSync(filename, 'utf8'),
-            translation = JSON.parse(contents);
-        translations[locale] = translation;
-    });
-    */
-    return translations;
+    return {};
 };
 
 var defaultLocale = 'en',

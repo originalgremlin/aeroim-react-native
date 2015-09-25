@@ -1,0 +1,15 @@
+{
+    "Connect": "Connecter",
+    "Kind": "Genre",
+    "Name": "Nom",
+    "Size": "Taille",
+    "Submit": "Soumettre",
+    "file": "fichier",
+    "folder": "dossier",
+    "http://example.com:5222/http-bind/": "http://exemple.com:5222/http-bind/",
+    "password": "mot de passe",
+    "server url": "url du serveur",
+    "username": "nom d'utilisateur",
+    "username@server": "utilisateur@serveur",
+    "": ""
+}
