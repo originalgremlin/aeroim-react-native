@@ -6,12 +6,14 @@ var EventEmitter = require('events').EventEmitter,
     LastViewedStore = require('./last-viewed'),
     GroupInfoStore = require('./group-info'),
     ProfileStore = require('./profile'),
+    Settings = require('../actions/settings'),
+    SettingsStore = require('./settings'),
     Actions = Constants.Actions,
     Events = Constants.Events,
     _ = require('lodash');
 
 var data = {
-    currentConversationId: localStorage.getItem('lastConversationId'),
+    currentConversationId: SettingsStore.get('lastConversationId'),
     conversation: {}
 };
 
@@ -116,7 +118,7 @@ Store.dispatchToken = Dispatcher.register(function (action) {
     switch (action.type) {
         case Actions.CHANGE_CONVERSATION:
             data.currentConversationId = action.id;
-            localStorage.lastConversationId = action.id;
+            //Settings.update('lastConversationId', action.id);
             utility.markAsRead(action.id);
             Store.emitChangeConversation(action.id);
             Store.emitChangeUnreadCount(conversationId);

@@ -19,5 +19,8 @@
     "react-native-browser-builtins": "file:../react-native-browser-builtins",
     "stanza.io": "^7.3.4",
     "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "react-native-cli": "^0.1.4"
   }
 }

@@ -14,6 +14,7 @@ var warn = function (message) {
 };
 
 var getLocale = function (defaultLocale) {
+    return defaultLocale;
     if (typeof navigator !== 'undefined') {
         return navigator.language;
     } else if (typeof process !== 'undefined') {

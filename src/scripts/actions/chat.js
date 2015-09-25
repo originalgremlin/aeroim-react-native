@@ -13,9 +13,9 @@ var Dispatcher = require('../dispatcher'),
 
 // custom xmpp plugins
 var plugins = {
-    joinedRooms: require('../components/chat/plugins/joined-rooms'),
-    pinnedConversations: require('../components/chat/plugins/pinned-conversations'),
-    viewedConversations: require('../components/chat/plugins/viewed-conversations')
+    joinedRooms: require('../plugins/joined-rooms'),
+    pinnedConversations: require('../plugins/pinned-conversations'),
+    viewedConversations: require('../plugins/viewed-conversations')
 };
 
 var client = null,
