@@ -53,7 +53,7 @@ var Store = _.assign({}, EventEmitter.prototype, {
     },
 
     getHostname: function () {
-        return this.get('hostname', location.hostname);
+        return this.get('hostname', 'localhost');
     },
 
     getXmppUrl: function () {
