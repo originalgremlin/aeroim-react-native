@@ -4,6 +4,9 @@ var React = require('react-native'),
     { AppRegistry, StyleSheet, Text, View } = React;
 require('react-native-browser-builtins');
 
+var ChatActions = require('./src/scripts/actions/chat');
+ChatActions.connect();
+
 var AeroIM = React.createClass({
   render: function() {
     return (
